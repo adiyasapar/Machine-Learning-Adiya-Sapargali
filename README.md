@@ -4,9 +4,11 @@ This project presents an analysis of decision tree and random forest classifiers
 
 # Contents
 
-Report Adiya Sapargali ML.pdf: Full report detailing the methodology, experiments, results, and discussion.
-mushroom_project.ipynb: Jupyter Notebook containing the implementation, data preprocessing, model training, and evaluation.
+- Report Adiya Sapargali ML.pdf: Full report detailing the methodology, experiments, results, and discussion.
 
-## /Data/
-primary_data.csv: Primary dataset containing raw mushroom observations.
-secondary_data.csv: Preprocessed dataset used in model evaluation.
+- mushroom_project.ipynb: Jupyter Notebook containing the implementation, data preprocessing, model training, and evaluation.
+
+## /Data/:
+- primary_data.csv: Primary dataset containing raw mushroom observations.
+
+- secondary_data.csv: Preprocessed dataset used in model evaluation.
