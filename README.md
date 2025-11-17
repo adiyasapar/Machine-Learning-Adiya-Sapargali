@@ -4,7 +4,7 @@ This project presents an analysis of decision tree and random forest classifiers
 
 # Contents
 
-- Report Adiya Sapargali ML.pdf: Full report detailing the methodology, experiments, results, and discussion.
+- Adiya_Sapargali_ML_report.pdf: Full report detailing the methodology, experiments, results, and discussion.
 
 - mushroom_project.ipynb: Jupyter Notebook containing the implementation, data preprocessing, model training, and evaluation.
 
